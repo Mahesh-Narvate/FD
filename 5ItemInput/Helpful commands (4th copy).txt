@@ -1,0 +1,16 @@
+To create a new project
+-->ng new <projectName>
+
+To launch the project
+-->ng serve
+-->ng serve --open
+-->ng serve -o
+
+To terminate the running project
+-->Ctrl+C
+-->press Y
+
+To install node_modules in a project
+-->npm install (all dependencies from package.json)
+-->npm install <dependencyName>
+jkjfghdsg
