@@ -31,9 +31,9 @@ public class AWS1 {
     double Pp;
     double Tp;
 
-    public static final String Hostid = "167.71.104.48";////18.222.130.75
-    public static final String Username = "tarun";//tarun
-    public static final String Password = "tarun@4321";////Tarunsharma@4321
+    public static final String Hostid = "100.94.45.78";//change according to your Cloud IP
+    public static final String Username = "tarun";//change according to your Cloud IPS username
+    public static final String Password = "tarun@4321";////change according to your Cloud IPS password
     
 
 

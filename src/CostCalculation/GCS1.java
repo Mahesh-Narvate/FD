@@ -32,9 +32,9 @@ public class GCS1 {
     double Pp;
     double Tp;
 
-    public static final String Hostid = "142.93.178.43";
-    public static final String Username = "tarun";
-    public static final String Password = "tarun@4321";
+    public static final String Hostid = "121.94.45.78";//change according to your Cloud IPS
+    public static final String Username = "tarun";//change according to your Cloud IPS username
+    public static final String Password = "tarun@4321";//change according to your Cloud IPS password
 
     public static double StorageUnitPrice = 0.085;
     public static double GetUnitPrice = 0.01;

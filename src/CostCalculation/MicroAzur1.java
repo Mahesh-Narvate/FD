@@ -31,9 +31,9 @@ public class MicroAzur1 {
     double Pp;
     double Tp;
 
-     public static final String Hostid = "142.93.178.43";//40.76.29.47
-    public static final String Username = "tarun";
-    public static final String Password = "tarun@4321";
+     public static final String Hostid = "142.94.45.78";//change according to your Cloud IPS
+    public static final String Username = "tarun";//change according to your Cloud IPS username
+    public static final String Password = "tarun@4321";//change according to your Cloud IPS password
     // public static final String Username="tarun";
 //        public static final String Password="Tarunsharma@4321";
 
